@@ -1,0 +1,11 @@
+/_deps/
+/build/
+/build-*/
+/.cache/
+/.idea/
+/.vs/
+.DS_Store
+*.user
+
+# Original presentation report retained locally.
+/BabaIsYouRapport.pdf
